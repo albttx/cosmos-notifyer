@@ -20,7 +20,7 @@ Cosmos notifyer is an alerting and informing tool for cosmos-sdk based chain
 
 ## Installation
 
-to install docker -> [get.docker.com](https://get.docker.com)
+to install docker: [get.docker.com](https://get.docker.com)
 
 * using [docker](https://docker.com)
 
