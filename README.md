@@ -2,7 +2,6 @@
 
 Cosmos notifyer is an alerting and informing tool for cosmos-sdk based chain
 
-
 # Features
 
 :warning: Alerts
